@@ -39,12 +39,16 @@ GoClickUp/
 ├─ .gitignore
 ---
 
+
+---
+
 ## 🚀 Cómo usar GoClickUp
 
-1. **Lee** las guías en `docs/` y descubre cómo hacer ClickUp más ligero.  
-2. **Importa** plantillas de `plantillas/` para ahorrar tiempo.  
-3. **Explora** hacks y scripts en `ejemplos/`.  
-4. **Inspírate** con los casos de `vitrina/` y adáptalos a tu realidad.  
+1. **Lee el [Manifiesto](docs/00_manifiesto.md)** para entender la filosofía del proyecto.  
+2. **Revisa** las guías en `docs/` y descubre cómo hacer ClickUp más ligero.  
+3. **Importa** plantillas de `plantillas/` para ahorrar tiempo.  
+4. **Explora** hacks y scripts en `ejemplos/`.  
+5. **Inspírate** con los casos de `vitrina/` y adáptalos a tu realidad.  
 
 ---
 
@@ -71,4 +75,7 @@ Este espacio busca crecer con la comunidad.
 
 Distribuido bajo **MIT**.  
 Úsalo, mejóralo, compártelo. Solo da el crédito: este es el inicio de **GoClickUp**.
+
+---
+
 
