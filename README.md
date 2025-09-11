@@ -19,4 +19,56 @@ Además, incluye una **vitrina personal (showcase)** donde muestro cómo estas i
 ---
 
 ## 📂 Estructura del repositorio
+GoClickUp/
+├─ docs/ → Guías potentes y directas
+│ ├─ 01_onboarding.md
+│ ├─ 02_mejores-practicas.md
+│ ├─ 03_flujos-trabajo.md
+│ ├─ 04_integraciones.md
+│ └─ 05_casos-estudio.md
+├─ plantillas/ → Formatos listos para importar
+│ ├─ tareas/
+│ └─ documentos/
+├─ ejemplos/ → Scripts, integraciones y hacks
+├─ vitrina/ → Showcase de proyectos personales
+│ ├─ presentacion.md
+│ ├─ capturas-demo/
+│ └─ roadmap.md
+├─ README.md
+├─ LICENSE
+├─ .gitignore
+---
+
+## 🚀 Cómo usar GoClickUp
+
+1. **Lee** las guías en `docs/` y descubre cómo hacer ClickUp más ligero.  
+2. **Importa** plantillas de `plantillas/` para ahorrar tiempo.  
+3. **Explora** hacks y scripts en `ejemplos/`.  
+4. **Inspírate** con los casos de `vitrina/` y adáptalos a tu realidad.  
+
+---
+
+## 💡 ¿Por qué GoClickUp?
+
+Porque muchas veces, ClickUp se siente como un **monstruo de mil funciones**.  
+Con GoClickUp, lo convertimos en un **sistema adaptable**:  
+- Pequeños equipos → procesos ligeros.  
+- Proyectos grandes → metodologías claras.  
+- Freelancers o PMOs → plantillas listas para vender o reutilizar.  
+
+---
+
+## 🙌 Contribuciones
+
+Este espacio busca crecer con la comunidad.  
+- 💬 Comparte experiencias.  
+- 🔧 Aporta nuevas plantillas o flujos.  
+- 🚀 Abre un PR y súmate al movimiento.  
+
+---
+
+## 📄 Licencia
+
+Distribuido bajo **MIT**.  
+Úsalo, mejóralo, compártelo. Solo da el crédito: este es el inicio de **GoClickUp**.
 
