@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local / variables sensibles
+.env
+*.log
+
+# Archivos temporales y de edición
+*.tmp
+*.swp
+*.bak
+*.idea/
+.vscode/
+
+# Carpetas de dependencias (si llegas a usar scripts en Python o Node)
+node_modules/
+__pycache__/
