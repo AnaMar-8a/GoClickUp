@@ -88,6 +88,7 @@ Action:
   - Generar reporte de valor entregado
   - Actualizar forecasting automático
   - Distribuir insights a stakeholders
+```yaml
 
 # 🎨 Gestión Visual Avanzada y Gobernanza en ClickUp
 
